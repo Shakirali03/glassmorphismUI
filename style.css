@@ -9,7 +9,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(/image/back.jpg);
+    background-image: url(./image/back.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
